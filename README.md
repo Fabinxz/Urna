@@ -1,1 +1,1 @@
-Um simples código em Python que simula a urna eleitoral
+Um simples código em Python que simula a urna eleitoral :)
